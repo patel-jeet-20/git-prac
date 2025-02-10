@@ -7,3 +7,7 @@ hashiras : 1.tengen Uzi
            5.sanemi Shinazugawa
            6.Kyojuro Rengoku
            7.Shinobu Kocho
+
+villans : 1.daki
+          2.Gyutaro
+          3.Akaza
