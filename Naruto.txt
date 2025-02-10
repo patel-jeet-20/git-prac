@@ -9,4 +9,12 @@ Akatsuki :- 1.pain
             6.Hidan
             7.Zetsu 
             8.Sasori
+            9.Kisame
+            10.Kakuzu
+            11.Obito
+            12.Sasuke
+            13.Tobi
+            14.Yahiko
+            15.Kabuto
+            
             
