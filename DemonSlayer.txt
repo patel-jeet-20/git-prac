@@ -6,4 +6,4 @@ hashiras : 1.tengen Uzi
            4.gyomei himejima
            5.sanemi Shinazugawa
            6.Kyojuro Rengoku
-           7.Shinobu Kocho
+           7.Shinobu Koc
