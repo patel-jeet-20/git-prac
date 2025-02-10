@@ -5,3 +5,5 @@ hashiras : 1.tengen Uzi
            3.mitsuri kanroji
            4.gyomei himejima
            5.sanemi Shinazugawa
+           6.Kyojuro Rengoku
+           7.Shinobu Kocho
