@@ -1,2 +1,6 @@
 OnePiece
 main character = luffy
+crew members :-
+1.Nami
+2.Cooper
+3.Robin
